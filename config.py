@@ -1,1 +1,0 @@
-Scorebat_Base_Url 

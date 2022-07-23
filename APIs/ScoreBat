@@ -1,0 +1,18 @@
+import config
+import requests
+import json
+
+recent_feed_base_url = config.Scorebat_Feed_Base_Url
+videoAPI_token = config.Scorebat_VideoAPI_Token
+
+request_Url = recent_feed_base_url + "?token={0}".format(config.Scorebat_VideoAPI_Token)
+
+response = requests.get(request_Url).json()["response"]
+
+titles = []
+competitions = {}
+matchviewUrls = {}
+competitionUrls = {}
+thumbnails = {}
+dates = {}
+videos = {}

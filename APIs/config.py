@@ -1,0 +1,3 @@
+Scorebat_Feed_Base_Url="https://www.scorebat.com/video-api/v3/feed/"
+Scorebat_VideoAPI_Token="MjE2MTdfMTY1ODM3MTQyMF84YWViYjFkODdlN2Y5YjhhZDM0MDJlZTE2ZjBlZWM1MDdhODNkZmQ5"
+Scorebat_EmbdedAPI_Token="MjE2MTdfMTY1ODQxNTIxOF82ZTg0NTQxNjI0ODMyZjMwNWUwZTRjMDE4Y2Q4ZDQ1YjM4MzI2NzIw"
